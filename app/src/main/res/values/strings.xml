@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppFinal</string>
+
+
+    <string name="login.message.signin">Iniciar Sesión</string>
+    <string name="login.message.signup">Registrate</string>
+    <string name="login.message.email">Correo electrónico</string>
+    <string name="login.message.password">Password</string>
+
+
+
+    <string name="login.message.signin.facebook">INGRESAR CON FACEBOOK</string>
+    <string name="login.message.signin.googleplus">INGRESAR CON GOOGLE PLUS</string>
+
+
+</resources>
