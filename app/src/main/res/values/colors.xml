@@ -10,4 +10,8 @@
     <color name="green">#6EB633</color>
     <color name="blue">#283593</color>
 
+
+
+    <color name="window_background">#FFF5F5F5</color>
+
 </resources>
